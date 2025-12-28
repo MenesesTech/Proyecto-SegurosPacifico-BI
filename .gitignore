@@ -1,0 +1,11 @@
+# Ignorar archivos de SQL Server
+*.mdf
+*.ldf
+
+# Ignorar las carpetas donde están realmente
+03_Scripts_SQL_Server/mdf/
+03_Scripts_SQL_Server/ldf/
+
+
+# Ignorar backups pesados
+BKP_SEGUROS_1904
