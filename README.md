@@ -25,6 +25,9 @@ El proyecto integra datos complejos de una operación que maneja:
     
 -   **Fuentes**: Archivos planos (CSV) de Clientes, Seguros y Productos Financieros.
 
+## 💻La data
+🔗[Backup de Prueba de Seguros](https://drive.google.com/file/d/124dCxQKm28DorF_ZvK3nEEMUFdUQx0ra/view?usp=sharing)
+
 ## 🛠️ Stack Tecnológico
 
 -   **SQL Server**: Motor de base de datos y scripts de limpieza/transformación.
