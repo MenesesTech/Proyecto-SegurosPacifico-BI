@@ -60,7 +60,7 @@ Se desarrolló un modelo **RFM (Recencia, Frecuencia, Monto)** para calificar el
     
 3.  **Monto**: Valor promedio de primas, normalizado a moneda nacional (PEN).
 
-**Resultados de Segmentación:** 🔗[Analisis RFM Seguros.xlsx]
+**Resultados de Segmentación:** 🔗[Analisis RFM Seguros.xlsx](https://docs.google.com/spreadsheets/d/1aQTSGm3MDTOoWVn4LQTw6q84pZ8CKRNo/edit?usp=sharing&ouid=114699823279101853963&rtpof=true&sd=trueg)
 
 ## 💡 Insights Principales
 
