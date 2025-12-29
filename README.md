@@ -86,7 +86,7 @@ El Dashboard final permite la explotación multidimensional, integrando:
 
 <p align="center">
   <img src="06_Visualizacion_Power_BI/img/dashboard_principal-0002.jpg" width="45%" />
-  <img src="06_Visualizacion_Power_BI/img/ddashboard_principal-0003.jpg" width="45%" />
+  <img src="06_Visualizacion_Power_BI/img/dashboard_principal-0003.jpg" width="45%" />
   <img src="06_Visualizacion_Power_BI/img/dashboard_principal-0004.jpg" width="45%" />
-  <img src="06_Visualizacion_Power_BI/img/ddashboard_principal-0005.jpg" width="45%" />  
+  <img src="06_Visualizacion_Power_BI/img/dashboard_principal-0005.jpg" width="45%" />  
 </p>
