@@ -79,3 +79,14 @@ El Dashboard final permite la explotación multidimensional, integrando:
 -   Análisis de primas por canal de venta y agencia.
     
 -   Detalle de clientes VIP y comportamiento por situación laboral.
+
+
+### Vista del Dashboard
+![Dashboard Principal - Resumen Ejecutivo](06_Visualizacion_Power_BI/img/dashboard_principal-0001.png)
+
+<p align="center">
+  <img src="06_Visualizacion_Power_BI/img/dashboard_principal-0002.png" width="45%" />
+  <img src="06_Visualizacion_Power_BI/img/ddashboard_principal-0003.png" width="45%" />
+  <img src="06_Visualizacion_Power_BI/img/dashboard_principal-0004.png" width="45%" />
+  <img src="06_Visualizacion_Power_BI/img/ddashboard_principal-0005.png" width="45%" />  
+</p>
